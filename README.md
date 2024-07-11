@@ -1,4 +1,4 @@
-# Space Robot-In-Billboard-Street-Game
+# Space Robot In Billboard Street Game
 ### This c# game with a 2D graphics was designed for multimedia course by using .NET Framework, GDI+ API for graphics  
 
 ## Game Description :
