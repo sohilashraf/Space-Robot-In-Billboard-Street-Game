@@ -6,7 +6,7 @@ The story behind the game is that the player is an space robot who suddenly find
 ## How To Play :
   * The player moves using the RIGHT and LEFT arrows
   * The player jump with space
-  * single and multiple shooting bullets using button S & D
+  * Single and multiple shooting bullets using button S & D
   * Climbing ladder using UP arrows
   * To use laser press L
   
